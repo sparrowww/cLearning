@@ -1,2 +1,2 @@
-cProg.bin: main.c
-	gcc -o cProg.bin main.c
+cProg.bin: src/*
+	gcc -o cProg.bin src/*
