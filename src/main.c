@@ -7,6 +7,10 @@
 int main()
 {
 	printf("Hello World!\n");
-	myFunc();
+
+	//getTypeSize();
+	//checkConst();
+	//testConsoleIn();
+
 	return 0;
-}
+};
